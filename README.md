@@ -11,6 +11,10 @@ browser that signs into the same account.
 Full analysis: https://rentry.co/6n3t22dr
 Earlier capture of the same site: https://archive.org/details/fern-best-har-2026-10-16
 
+> An archive.org copy of these files is pending. The upload was held by archive.org's automatic rate
+> limiting on a new account, so the files are published here in the meantime. The SHA-256 hashes below
+> will match the archive.org copy once it is up.
+
 ## Method
 
 - Captured 16 October 2026, 21:30–21:46 UTC, against build `app-shared-C9iDx0wb-c57aa2b0.js`.
